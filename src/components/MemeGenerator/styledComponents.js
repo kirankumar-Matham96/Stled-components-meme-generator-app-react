@@ -13,6 +13,7 @@ export const MainHeading = styled.h1`
 export const BGContainer = styled.div`
   height: 100vh;
   padding: 16px;
+  font-family: 'open sans';
   @media (min-width: 768px) {
     display: flex;
     flex-direction: column;
